@@ -40,3 +40,4 @@ set mouse=a
 set printexpr=system('open\ -a\ Preview\ '.v:fname_in)\ +\ v:shell_error
 set termencoding=utf-8
 " vim: set ft=vim :
+Set someootion=true
